@@ -18,8 +18,8 @@ from oauth2client.service_account import ServiceAccountCredentials
 import os
 
 # CONFIGURA TUS CREDENCIALES Y URL DE OKTA
-OKTA_USERNAME = "yonatan.osorio@openenglish.com"
-OKTA_PASSWORD = "Matias2023#"
+OKTA_USERNAME = "jh@hot.com"
+OKTA_PASSWORD = "jh"
 OKTA_URL = "https://openeducation.okta.com"
 reporte_casos_url = "https://openeducation.my.salesforce.com/00O3r000006mGPy"
 
