@@ -1,1 +1,5 @@
+Donde se encuentra Reports
 https://community.five9.com/s/article/API-How-to-Retrieve-Reports-using-API?language=en_US
+
+Donde se encuentra Administrador y Supervisor
+https://community.five9.com/s/article/API-WSDL-file-used-by-Five9?language=en_US
